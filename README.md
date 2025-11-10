@@ -1,6 +1,6 @@
 ## Hi, I'm Álvaro 👋
 
-
+Desarrollador fullstack y estudiante de último año de Ingeniería Informática en la UPSA, apasionado por la inteligencia artificial, la innovación y la creación de soluciones tecnológicas. Tengo experiencia en tecnologías como Java, Quarkus, Python, React, Node.js, Docker y machine learning. Me caracterizan la comunicación efectiva, el trabajo en equipo y el aprendizaje constante, siempre con el objetivo de impulsar proyectos que generen impacto real.
 
 ## My Skills
 
